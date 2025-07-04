@@ -31,7 +31,7 @@ This project provides a FastAPI-based locally hosted web-application to analyze 
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Ansh-Chamriya/aihackathonSvelteKit
+    git clone https://github.com/Ansh-Chamriya/Stock-Saarthi
     ```
 
     **Installing npm for UI-frontend**
